@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "description": "mytest",
   "keywords": [
-    "mytest", "storybook-addons"
+    "mytest",
+    "storybook-addons"
   ],
   "repository": {
     "type": "git",
@@ -51,7 +52,7 @@
     "@storybook/blocks": "8.0.0",
     "@storybook/components": "8.0.0",
     "@storybook/core-events": "8.0.0",
-    "@storybook/manager": "8.0.0",
+    "@storybook/manager": "8.2",
     "@storybook/manager-api": "8.0.0",
     "@storybook/preview": "8.0.0",
     "@storybook/preview-api": "8.0.0",
