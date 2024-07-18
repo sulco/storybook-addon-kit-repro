@@ -1,6 +1,9 @@
 import { defineConfig, type Options } from "tsup";
 import { readFile } from "fs/promises";
 import { globalPackages as globalManagerPackages } from "@storybook/manager/globals";
+// run:
+// npm i @storybook/manager@8.1.9
+// to fix this.
 import { globalPackages as globalPreviewPackages } from "@storybook/preview/globals";
 
 // The current browsers supported by Storybook v7
